@@ -3,6 +3,24 @@
 This respository is to share your Mods (Mods of my Mods are called Mods in the following). You can add them by submitting a pullrequest.
 All my Mods have a sperate folder, that may include further subfolders, please sort your content as described below:
 
+## Table structure
+
+*Thanks to the [Voron_User](https://github.com/VoronDesign/VoronUsers) Repo for this table shematic! 
+Update the following table with the information about your mod:
+- Your name
+- A link to your sub-folder
+- A short description of your mod
+- The extruder compatibility. Use `:heavy_check_mark:` for :heavy_check_mark:,`:x:` for :x: and `:grey_question:` for :grey_question:
+
+like so:
+`
+| Creator | [Mod title](link) | Description | :x: | :x: |`
+
+| Creator | Mod title | Description | Papilio | Papilio Lite |
+| --- | --- | --- | --- | --- | 
+| KevinAkaSam | [XOL2 Mounts](./KevinAkaSam/XOL2 Mounts) | XOL2 Mounts for the Papilio (Lite) including Tap  | :heavy_check_mark: | :heavy_check_mark: |
+|  | [Stealthburner Mount](./KevinAkaSam/Stealthburner Mount) | Stealthburner Mount for the Papilio Lite  | :x: | :heavy_check_mark: |
+
 ## How to create a pull request 
 
 1. Create a fork of the respository
@@ -47,21 +65,3 @@ To add your work create a folder that has the following structure:
         - Nickname Subfolder eg. `SamAkaKevin`
             - Modname Subfolder eg. `Mod_A`
             - Modname Subfolder eg. `Mod_B`
-
-## Table structure
-
-*Thanks to the [Voron_User](https://github.com/VoronDesign/VoronUsers) Repo for this table shematic! 
-Update the following table with the information about your mod:
-- Your name
-- A link to your sub-folder
-- A short description of your mod
-- The extruder compatibility. Use `:heavy_check_mark:` for :heavy_check_mark:,`:x:` for :x: and `:grey_question:` for :grey_question:
-
-like so:
-`
-| Creator | [Mod title](link) | Description | :x: | :x: |`
-
-| Creator | Mod title | Description | Papilio | Papilio Lite |
-| --- | --- | --- | --- | --- | 
-| KevinAkaSam | [XOL2 Mounts](./KevinAkaSam/XOL2 Mounts) | XOL2 Mounts for the Papilio (Lite) including Tap  | :heavy_check_mark: | :heavy_check_mark: |
-|  | [Stealthburner Mount](./KevinAkaSam/Stealthburner Mount) | Stealthburner Mount for the Papilio Lite  | :x: | :heavy_check_mark: |
