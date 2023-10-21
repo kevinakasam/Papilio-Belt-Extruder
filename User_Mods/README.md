@@ -18,8 +18,8 @@ like so:
 
 | Creator | Mod title | Description | Papilio | Papilio Lite |
 | --- | --- | --- | --- | --- | 
-| KevinAkaSam | [XOL2 Mounts](./KevinAkaSam/XOL2 Mounts) | XOL2 Mounts for the Papilio (Lite) including Tap  | :heavy_check_mark: | :heavy_check_mark: |
-|  | [Stealthburner Mount](./KevinAkaSam/Stealthburner Mount) | Stealthburner Mount for the Papilio Lite  | :x: | :heavy_check_mark: |
+| KevinAkaSam |[XOL2_Mounts](./KevinAkaSam/XOL2_Mounts)| XOL2 Mounts for the Papilio (Lite) including Tap  | :heavy_check_mark: | :heavy_check_mark: |
+|  |[Stealthburner_Mount](./KevinAkaSam/Stealthburner_Mount)| Stealthburner Mount for the Papilio Lite  | :x: | :heavy_check_mark: |
 
 ## How to create a pull request 
 
