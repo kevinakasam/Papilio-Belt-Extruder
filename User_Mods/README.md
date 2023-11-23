@@ -22,6 +22,7 @@ like so:
 |  |[Stealthburner_Mount](./KevinAkaSam/Stealthburner_Mount)| Stealthburner Mount for the Papilio Lite  | :x: | :heavy_check_mark: |
 | hawk16zz | [PapLite Combo Mount](./hawk16zz/Combo_SM_LGX_lite_for_Frank2.0) | PapLite mount for Frank2.0 with extra LGX Lite holes | :x: | :heavy_check_mark: |
 |  | [PapLite Strain Relief](./hawk16zz/Mountable_LGX_Lite_strain_relief) | Cable Strain Relief Bracket for PapLite | :x: | :heavy_check_mark: |
+|  | [PapLite Front EBB36](./hawk16zz/Front_EBB36_PapLite) | Mount to attach a EBB36 to the Front of the PapLite | :x: | :heavy_check_mark: |
 
 ## How to create a pull request 
 
