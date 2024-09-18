@@ -23,6 +23,9 @@ like so:
 | hawk16zz | [PapLite Combo Mount](./hawk16zz/Combo_SM_LGX_lite_for_Frank2.0) | Extra mounting options for the PapLite with Frank2.0 | :x: | :heavy_check_mark: |
 |  | [PapLite Strain Relief](./hawk16zz/Mountable_LGX_Lite_strain_relief) | Cable Strain Relief Bracket for PapLite | :x: | :heavy_check_mark: |
 |  | [PapLite Front EBB36](./hawk16zz/Front_EBB36_PapLite) | Mount to attach a EBB36 to the Front of the PapLite | :x: | :heavy_check_mark: |
+| n4t3 | [Papilio Top Cover HGX Collet](./n4t3/Papilio_HGX_Collet) | Top Cover to attach HGX Collet to top | :x: | :heavy_check_mark: |
+|  | [Papilio Top Cover M6 Bowden Dual](./n4t3/Papilio_M6_Bowden_Dual) | Top Cover to attach M6 Bowden Coupler to top and bottom | :x: | :heavy_check_mark: |
+|  | [Papilio Top Cover M6 Bowden](./n4t3/Papilio_M6_Bowden) | Top Cover to attach M6 Bowden Coupler to top | :x: | :heavy_check_mark: |
 
 ## How to create a pull request 
 
