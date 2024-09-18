@@ -1,2 +1,3 @@
-The front plate allows the collet that comes with the HGX Lite kit to be added at the top as a retainer for the bowden tube
+This front plate allows the collet that comes with the HGX Lite kit to be added at the top as a retainer for the bowden tube. Using a soldering iron, heat the metal ring and seat it in the top so that the end is flush with the top face, then insert the plastic retainer. If the ring is inserted too far, there will not be enough space for the blue plastic lock ring.
 
+<img 
