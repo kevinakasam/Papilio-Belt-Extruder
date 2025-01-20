@@ -21,6 +21,7 @@ like so:
 | KevinAkaSam |[XOL2_Mounts](./KevinAkaSam/XOL2_Mounts)| XOL2 Mounts for the Papilio (Lite) including Tap  | :heavy_check_mark: | :heavy_check_mark: |
 |  |[Stealthburner_Mount](./KevinAkaSam/Stealthburner_Mount)| Stealthburner Mount for the Papilio Lite  | :x: | :heavy_check_mark: |
 | adamstorm | [Filament Sensors](./adamstorm/Filament%20Sensors) | Top Cover with filament sensors | :x: | :heavy_check_mark: |
+| cobre | [A4T Extruder Adapters](./cobre/A4T%20Extruder%20Adapters) | Adapter to use Papilio extruder with A4T toolhead | :grey_question: | :heavy_check_mark: |
 | hawk16zz | [PapLite Combo Mount](./hawk16zz/Combo_SM_LGX_lite_for_Frank2.0) | Extra mounting options for the PapLite with Frank2.0 | :x: | :heavy_check_mark: |
 |  | [PapLite Strain Relief](./hawk16zz/Mountable_LGX_Lite_strain_relief) | Cable Strain Relief Bracket for PapLite | :x: | :heavy_check_mark: |
 |  | [PapLite Front EBB36](./hawk16zz/Front_EBB36_PapLite) | Mount to attach a EBB36 to the Front of the PapLite | :x: | :heavy_check_mark: |
