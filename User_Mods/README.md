@@ -28,6 +28,7 @@ like so:
 | n4t3 | [Papilio Top Cover HGX Collet](./n4t3/Papilio_HGX_Collet) | Top Cover to attach HGX Collet to top | :x: | :heavy_check_mark: |
 |  | [Papilio Top Cover M6 Bowden Dual](./n4t3/Papilio_M6_Bowden_Dual) | Top Cover to attach M6 Bowden Coupler to top and bottom | :x: | :heavy_check_mark: |
 |  | [Papilio Top Cover M6 Bowden](./n4t3/Papilio_M6_Bowden) | Top Cover to attach M6 Bowden Coupler to top | :x: | :heavy_check_mark: |
+| theFPVgeek | [FlexiPap](./theFPVgeek/FlexiPap) | Modified Papilio Lite TPU Cover and HGX 1.x geared Upper Base for <95A flexible filaments | :x: | :heavy_check_mark: |
 
 ## How to create a pull request 
 
