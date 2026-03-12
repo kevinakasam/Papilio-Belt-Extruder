@@ -21,12 +21,14 @@ like so:
 | KevinAkaSam |[XOL2_Mounts](./KevinAkaSam/XOL2_Mounts)| XOL2 Mounts for the Papilio (Lite) including Tap  | :heavy_check_mark: | :heavy_check_mark: |
 |  |[Stealthburner_Mount](./KevinAkaSam/Stealthburner_Mount)| Stealthburner Mount for the Papilio Lite  | :x: | :heavy_check_mark: |
 | adamstorm | [Filament Sensors](./adamstorm/Filament%20Sensors) | Top Cover with filament sensors | :x: | :heavy_check_mark: |
+| cobre | [A4T Extruder Adapters](./cobre/A4T%20Extruder%20Adapters) | Adapter to use Papilio extruder with A4T toolhead | :grey_question: | :heavy_check_mark: |
 | hawk16zz | [PapLite Combo Mount](./hawk16zz/Combo_SM_LGX_lite_for_Frank2.0) | Extra mounting options for the PapLite with Frank2.0 | :x: | :heavy_check_mark: |
 |  | [PapLite Strain Relief](./hawk16zz/Mountable_LGX_Lite_strain_relief) | Cable Strain Relief Bracket for PapLite | :x: | :heavy_check_mark: |
 |  | [PapLite Front EBB36](./hawk16zz/Front_EBB36_PapLite) | Mount to attach a EBB36 to the Front of the PapLite | :x: | :heavy_check_mark: |
 | n4t3 | [Papilio Top Cover HGX Collet](./n4t3/Papilio_HGX_Collet) | Top Cover to attach HGX Collet to top | :x: | :heavy_check_mark: |
 |  | [Papilio Top Cover M6 Bowden Dual](./n4t3/Papilio_M6_Bowden_Dual) | Top Cover to attach M6 Bowden Coupler to top and bottom | :x: | :heavy_check_mark: |
 |  | [Papilio Top Cover M6 Bowden](./n4t3/Papilio_M6_Bowden) | Top Cover to attach M6 Bowden Coupler to top | :x: | :heavy_check_mark: |
+| theFPVgeek | [FlexiPap](./theFPVgeek/FlexiPap) | Modified Papilio Lite TPU Cover and HGX 1.x geared Upper Base for <95A flexible filaments | :x: | :heavy_check_mark: |
 
 ## How to create a pull request 
 
